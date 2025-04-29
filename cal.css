@@ -1,0 +1,105 @@
+body {
+    position: relative;
+    background-color: rgba(231, 224, 224, 0.564);
+    padding: auto;
+
+}
+
+.buttongroup {
+    position: relative;
+    margin-top: 100px;
+    top: 100px;
+    border: 10cm;
+    width: 200px;
+    height: 400px;
+    padding: 10px;
+    margin: auto;
+    display:flexbox;
+
+}
+
+#display{
+    width: 245px;
+    height: 60px;
+    border: 2px;
+
+}
+#size{
+    width: 250px;
+    height: 70px;
+}
+.dev{
+    border: 15cm;
+    width: 55px;
+    height: 50px;
+    padding: 10px;
+    border-radius: 50%;
+    background-color:rgb(230, 237, 230);
+    box-shadow: 0 4px 6px rgba(123, 115, 115, 0.1);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+    font-size: medium;
+    cursor: pointer;
+    align-items: center;
+    
+}
+#clear{
+    border: 15cm;
+    width: 55px;
+    height: 50px;
+    padding: 10px;
+    border-radius: 50%;
+    background-color:rgb(230, 245, 230);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+    font-size: medium;
+    cursor: pointer;
+    align-items: center;
+
+}
+#equal{
+    border: 15cm;
+    width: 55px;
+    height: 50px;
+    padding: 10px;
+    border-radius: 50%;
+    background-color:honeydew;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+    font-size: medium;
+    cursor: pointer;
+    align-items: center;
+    
+}
+#delete{
+    border: 15cm;
+    width: 55px;
+    height: 50px;
+    padding: 10px;
+    border-radius: 50%;
+    background-color:honeydew;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+    font-size: medium;
+    cursor: pointer;
+    align-items: center;
+    
+}
+.operator{
+    border: 15cm;
+    width: 55px;
+    height: 50px;
+    padding: 10px;
+    border-radius: 50%;
+    background-color:honeydew;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+    font-size: medium;
+    cursor: pointer;
+    align-items: center;
+    
+}
